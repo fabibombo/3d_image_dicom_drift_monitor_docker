@@ -30,5 +30,3 @@ Once inside the docker the script can be run with:
 
 
 By: David Vallmanya Poch
-
-Contact: david_vallmanya@iislafe.es
