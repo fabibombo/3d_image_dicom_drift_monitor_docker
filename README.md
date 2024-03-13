@@ -16,7 +16,7 @@ More parameters related to the analysis and methods can be used with the script,
 
 ### Commands ###
 
-The docker is already built. In case it was deleted, it can be built with:
+The docker image can be built with:
 
 ```docker build --no-cache -f dicom_drift_monitoring.dockerfile -t dicom-drift-monitoring-docker .```
 
